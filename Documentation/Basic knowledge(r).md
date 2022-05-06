@@ -7,11 +7,11 @@ Any changes or additions made to the ledger are reflected and copied to all part
 Blockchain is decentralized and hence there is no central place for it to be stored. That's why it is stored in computers or systems all across the network.<br>
 These systems or computers are known as nodes. Each of the nodes has one copy of the blockchain or in other words, the transactions that are done on the network.</p>
 <p>
-<p>What is Hyperledger?</p>
+<p>What is Hyperledger?<br>
 <p>Hyperledger is an open source effort to advance cross-industry blockchain technologies for business use. It's a global collaboration, hosted by The Linux Foundation®.<br>
 183+ diverse members and nine ongoing projects, including Hyperledger Indy, work in concert to create an open, standardized, and enterprise-grade distributed ledger framework and code base.</p>
 
-<p>What is a DID?</p>
+<p>What is a DID?<br>
 <p>A DID Entity is a data structure comprised of a collection of key-value pairs with keys such as: id (DID), service (endpoints), authentication, publicKey, @context, etc.<br>
 A DID Document is a JSON-LD serialization of a DID Entity. A DID Document has a set of attributes such as the following: id (DID), service (endpoints), authentication, publicKey, @context, etc.<br>
 The id (DID) attribute is the unique identifier or key for the DID Document.</p>
